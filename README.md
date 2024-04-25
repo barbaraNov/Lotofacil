@@ -1,5 +1,11 @@
 Este é um projeto em Java que implementa um simulador da Lotofácil, um jogo de loteria brasileiro. Ele é desenvolvido utilizando o Oracle OpenJDK versão 21.0.2.
 
+
+
+https://github.com/barbaraNov/Lotofacil/assets/161669229/7e79e75b-fd19-4c3e-a7dd-8d3214361a57
+
+
+
 Funcionalidades:
 Geração de apostas aleatórias da Lotofácil.
 Verificação de acertos em uma aposta em relação ao resultado oficial.
